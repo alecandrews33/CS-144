@@ -1,0 +1,3 @@
+Pandemaniac
+
+This competition gave teams a graph, and teams had to select a pre-defined number of start nodes. If two teams selected the same start node, then neither team was awarded it. The game lasted for 50 rounds, and in each round, unselected nodes were awarded to the team that had the majority of neighbors of that node. Also, a team's nodes could be taken by another team if the other team possessed a majority of that nodes neighbor. This game was used to model cascades and pandemics. These files show some of our different attempts, looking at different qualities of the nodes to try and find the best combination.
